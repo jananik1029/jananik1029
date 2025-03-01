@@ -7,6 +7,7 @@
 
 ### Tools Used
 - Cypress
+- Playwright
 - Javascript
 - Cucumber
 - GitHub
